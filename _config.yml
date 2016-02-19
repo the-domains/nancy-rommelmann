@@ -1,0 +1,28 @@
+name: Nancy Rommelmann
+favicon: null
+layout_spectrum: 0.573435259051621
+typography_spectrum: 0.26234550517983735
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9783791934605688
+  lightness: 0.9797463410068303
+  saturation: 0.9947089708875865
+  rhythmicContrast: 0.5212860847823322
+purpose: []
